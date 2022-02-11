@@ -1,0 +1,17 @@
+{
+  "name": "e",
+  "main": "index.js",
+  "homepage": "https://github.com/ethacochran/e",
+  "authors": [
+    "ethacochran"
+  ],
+  "description": "game library",
+  "keywords": [
+    "videoGame"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
